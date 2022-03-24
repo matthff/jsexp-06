@@ -1,5 +1,4 @@
-import fs from 'fs';
-import fsPromises from 'fs/promises';
+import fs, {promises as fsPromises} from 'fs'
 import config from './config.js';
 import { join, extname } from 'path';
 
