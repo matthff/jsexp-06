@@ -11,4 +11,4 @@
   - Config = tudo que for estático no projeto, faz parte deste pacote
 
 
-#### Pinpoint the current stopped time in the class videos: Aula 01 at 01h:05min:00s
+#### Last session timestamp in the videos: Aula 02 at 01h:10min:00s
